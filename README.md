@@ -6,5 +6,5 @@ See all of my Advent of Code solutions below.
 
 | Day | Language | Solution |
 |-----|----------|----------|
-| 1   | Java     | [55123 and 55260](./day1/README.md) |
-| 2   | Java     | [2563 and 70768](./day2/README.md) |
+| 1   | Java     | [55123 and 55260](./2023/day1/README.md) |
+| 2   | Java     | [2563 and 70768](./2023/day2/README.md) |
