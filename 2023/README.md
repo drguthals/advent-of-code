@@ -6,12 +6,12 @@
 
 ## Part 1
 ### Files
-- [Trebuchet.java](./Trebuchet.java): Runs the program
-- [TextNumbers.java](./TextNumbers.java): Converts word versions of digits to digits
-- [CalibrationDoc.java](./CalibrationDoc.java): Computes the calibration data
-- [input.txt](./input.txt): The input data I received for Day 1
-- [cleanedInput.txt](./cleanedInput.txt): The same input data for Day 1 but with word digits converted to digits
-- [output.txt](./output.txt): Helpful output when debugging
+- [Trebuchet.java](./day1/Trebuchet.java): Runs the program
+- [TextNumbers.java](./day1/TextNumbers.java): Converts word versions of digits to digits
+- [CalibrationDoc.java](./day1/CalibrationDoc.java): Computes the calibration data
+- [input.txt](./day1/input.txt): The input data I received for Day 1
+- [cleanedInput.txt](./day1/cleanedInput.txt): The same input data for Day 1 but with word digits converted to digits
+- [output.txt](./day1/output.txt): Helpful output when debugging
 
 ### Global Variables
 - `boolean debug`: Set to `true` in `Trebuchet.java` so that when run, output data is written to `output.txt`
@@ -30,10 +30,10 @@ Part 2: 55260
 
 ## Part 2
 ### Files
-- [CubeConundrum.java](./CubeConundrum.java): Runs the program
-- [GameCounter.java](./GameCounter.java): Counts colors for each game
-- [input.txt](./input.txt): The input data I received for Day 2
-- [output.txt](./output.txt): Helpful output when debugging
+- [CubeConundrum.java](./day2/CubeConundrum.java): Runs the program
+- [GameCounter.java](./day2/GameCounter.java): Counts colors for each game
+- [input.txt](./day2/input.txt): The input data I received for Day 2
+- [output.txt](./day2/output.txt): Helpful output when debugging
 
 ### Global Variables
 - `boolean debug`: Set to `true` in `CubeConundrum.java` so that when run, output data is written to `output.txt`
