@@ -49,3 +49,27 @@ java CubeConundrum
 ### Answers  
 Part 1: 2563  
 Part 2: 70768  
+
+## Part 3
+### Files
+- [EngineRepair.java](./day2/EngineRepair.java): Runs the program
+- [PartFinder.java](./day3/PartFinder.java): Finds all part numbers and gears
+- [Gears.java](./day3/Gears.java): Keeps track of all gears
+- [Gear.java](./day3/Gear.java): Location and part numbers for a gear
+- [input.txt](./day3/input.txt): The input data I received for Day 3
+- [output.txt](./day3/output.txt): Helpful output when debugging
+
+### Global Variables
+- `boolean debug`: Set to `true` in `CubeConundrum.java` so that when run, output data is written to `output.txt`
+- `int part`: Either `1` or `2` depending on which part of the Day 2 challenge you are looking to solve
+- `String filename`: Set to `index.txt` for the input data I received for Day 2. 
+
+### Compile and Run  
+In `advent-of-code/2023/day3/` run:
+```
+javac *.java
+java EngineRepair
+```
+### Answers  
+Part 1: 556057  
+Part 2: 82824352  

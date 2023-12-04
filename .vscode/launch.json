@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "cwd" : "${fileDirname}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "cwd" : "${fileDirname}"
+        },
+        {
+            "type": "java",
+            "name": "CubeConundrum",
+            "request": "launch",
+            "mainClass": "CubeConundrum",
+            "projectName": "advent-of-code_62b4f2d6",
+            "cwd" : "${fileDirname}"
+        },
+        {
+            "type": "java",
+            "name": "Trebuchet",
+            "request": "launch",
+            "mainClass": "Trebuchet",
+            "projectName": "advent-of-code_62b4f2d6",
+            "cwd" : "${fileDirname}"
+        },
+        {
+            "type": "java",
+            "name": "EngineRepair",
+            "request": "launch",
+            "mainClass": "EngineRepair",
+            "projectName": "advent-of-code_62b4f2d6",
+            "cwd" : "${fileDirname}"
+        }
+    ]
+}
